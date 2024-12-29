@@ -1,2 +1,3 @@
-# elasticsearch-database
-# elasticsearch-database
+# Docker Compose Template for Elastic Search and Kibana
+
+
